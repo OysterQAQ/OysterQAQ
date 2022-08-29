@@ -3,4 +3,3 @@
 
 
 * [Blog](https://www.oysterqaq.com/)
-* [Pixivic](https://pixivic.com)
