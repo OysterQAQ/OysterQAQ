@@ -3,3 +3,5 @@
 
 
 * [Blog](https://www.oysterqaq.com/)
+
+* [ACG2Vec](https://cheerfun.dev/acg2vec/)
