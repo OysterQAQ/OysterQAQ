@@ -3,5 +3,4 @@
 * [ACG2Vec](https://cheerfun.dev/acg2vec/)
 
 ![](https://github-readme-stats.vercel.app/api?username=OysterQAQ)
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
-
+![](https://leetcard.jacoblin.cool/OysterQAQ?theme=light&site=cn)
